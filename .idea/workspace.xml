@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="782a1a45-a19d-4c60-8085-187505558b49" name="Default" comment="" />
+    <list default="true" id="782a1a45-a19d-4c60-8085-187505558b49" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/testfile.html" afterPath="$PROJECT_DIR$/testfile.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -202,7 +204,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532400991023</updated>
-      <workItem from="1532400992818" duration="648000" />
+      <workItem from="1532400992818" duration="230000" />
     </task>
     <task id="LOCAL-00001" summary="201807241100dev1增加了一行数据">
       <created>1532401106682</created>
@@ -215,7 +217,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="648000" />
+    <option name="totallyTimeSpent" value="230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
